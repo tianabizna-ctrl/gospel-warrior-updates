@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "studies": 10412,
-  "revision": "sha256-ef6e3505b88be40139c15d520eab4fdba0508eb0f729e99db2430c51a2e28c56",
-  "unpackedBytes": 190230363,
-  "sha256": "2e8d2750afc3a29da614e139fc7cfb834cbd17d4d7b4f7a239f7ad30f8a784b3",
-  "bytes": 61305755,
-  "newestStudyDate": "2026-11-21T17:06:39+00:00",
-  "url": "https://github.com/tianabizna-ctrl/gospel-warrior-updates/releases/download/content-ef6e3505b88be401/Gospel-Warrior-content.zip"
+  "studies": 10447,
+  "revision": "sha256-4d73614dd01c46dccf31eb4700a42345e156d0a707b92b451434fceaae5c22c8",
+  "unpackedBytes": 193678273,
+  "sha256": "7322b98daec738b2a59b3b4f732fa77c519e3c663ac8e9339e6d8d6e69627a4c",
+  "bytes": 63883451,
+  "newestStudyDate": "2026-11-25T06:33:13+00:00",
+  "url": "https://github.com/tianabizna-ctrl/gospel-warrior-updates/releases/download/content-4d73614dd01c46dc/Gospel-Warrior-content.zip"
 }
